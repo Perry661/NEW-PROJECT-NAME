@@ -1,1 +1,1 @@
-# NEW-PROJECT-NAME
+# Sundae-Shore
